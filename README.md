@@ -9,7 +9,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Generate PDF invoices
 - Track invoice status and payments
 
-![Invoice Dashboard](frontend/src/screenshots/invoice.png)
+![Invoice Dashboard](frontend/src/screenshots/Invoice.png)
 *Invoice management dashboard*
 
 ### 📋 Quote Management
