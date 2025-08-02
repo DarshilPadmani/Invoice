@@ -9,7 +9,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Generate PDF invoices
 - Track invoice status and payments
 
-![Invoice Dashboard](frontend/src/screenshots/Screenshot%202025-08-02%20085220.png)
+![Invoice Dashboard](frontend/src/screenshots/invoice.png)
 *Invoice management dashboard*
 
 ### 📋 Quote Management
@@ -17,7 +17,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Convert quotes to invoices
 - Quote approval workflow
 
-![Quote Management](frontend/src/screenshots/Screenshot%202025-08-02%20085243.png)
+![Quote Management](frontend/src/screenshots/Quote.png)
 *Quote creation and management*
 
 ### 👥 Customer Management
@@ -25,7 +25,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Customer profile management
 - Communication history
 
-![Customer Management](frontend/src/screenshots/Screenshot%202025-08-02%20091738.png)
+![Customer Management](frontend/src/screenshots/client.png)
 *Customer management interface*
 
 ## 🛠️ Technology Stack
@@ -38,15 +38,13 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](frontend/src/screenshots/invoice.png)
+![Dashboard](frontend/src/screenshots/invoice1.png)
 *Main application dashboard*
 
-### Invoice Management Interface
-![Invoice Interface](frontend/src/screenshots/client.png)
-*Invoice creation and management interface*
+### Other Settings Interface
+![Invoice Interface](frontend/src/screenshots/companySettings.png)
 
-### Application Overview
-![Application Overview](frontend/src/screenshots/Quote.png)
+![Application Overview](frontend/src/screenshots/settings.png)
 *Complete application interface*
 
 ## 🏃‍♂️ Getting Started
