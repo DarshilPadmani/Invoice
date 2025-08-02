@@ -25,7 +25,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Customer profile management
 - Communication history
 
-![Customer Management](frontend/src/screenshots/client.png)
+![Customer Management](frontend/src/screenshots/Client.png)
 *Customer management interface*
 
 ## 🛠️ Technology Stack
