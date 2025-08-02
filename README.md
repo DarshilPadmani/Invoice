@@ -9,7 +9,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Generate PDF invoices
 - Track invoice status and payments
 
-![Invoice Dashboard](frontend\src\screenshots\invoice-dashboard.png)
+![Invoice Dashboard](frontend/src/screenshots/Screenshot%202025-08-02%20085220.png)
 *Invoice management dashboard*
 
 ### 📋 Quote Management
@@ -17,7 +17,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Convert quotes to invoices
 - Quote approval workflow
 
-![Quote Management](frontend\src\screenshots\quote-management.png)
+![Quote Management](frontend/src/screenshots/Screenshot%202025-08-02%20085243.png)
 *Quote creation and management*
 
 ### 👥 Customer Management
@@ -25,7 +25,7 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 - Customer profile management
 - Communication history
 
-![Customer Management](frontend\src\screenshots\customer-management.png)
+![Customer Management](frontend/src/screenshots/Screenshot%202025-08-02%20091738.png)
 *Customer management interface*
 
 ## 🛠️ Technology Stack
@@ -38,15 +38,15 @@ A comprehensive invoice management system built with the MERN stack, featuring m
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](frontend/src/screenshots/Screenshot%202025-08-02%20085220.png)
+![Dashboard](frontend/src/screenshots/invoice.png)
 *Main application dashboard*
 
 ### Invoice Management Interface
-![Invoice Interface](frontend/src/screenshots/Screenshot%202025-08-02%20085243.png)
+![Invoice Interface](frontend/src/screenshots/client.png)
 *Invoice creation and management interface*
 
 ### Application Overview
-![Application Overview](frontend/src/screenshots/Screenshot%202025-08-02%20091738.png)
+![Application Overview](frontend/src/screenshots/Quote.png)
 *Complete application interface*
 
 ## 🏃‍♂️ Getting Started
@@ -108,4 +108,14 @@ invoices/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+Your Name - your.email@example.com
+
+Project Link: [https://github.com/yourusername/invoices](https://github.com/yourusername/invoices)
 
